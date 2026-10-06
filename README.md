@@ -3,7 +3,7 @@
 # Fase de Reconhecimento e Conectividade
 
 Teste de Conectividade (Ping):
-ping -c 3 192.168.56.101
+```ping -c 3 192.168.56.101```
 
 Explicação: Verifica se a máquina-alvo está ligada e acessível na rede local enviando 3 pacotes ICMP.
 
